@@ -2,7 +2,7 @@
 
 A classic Snake game implementation using Pygame. Control a snake to eat food, grow longer, and avoid collisions with walls and yourself.
 
-## Demonstration
+## Demonstration video
 
 [![Snake Game Demo](https://img.youtube.com/vi/AAINqRDRcaA/0.jpg)](https://www.youtube.com/watch?v=AAINqRDRcaA)
 
